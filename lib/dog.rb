@@ -1,5 +1,5 @@
 class Dog
-  def in
+  def init
   def name
     @name
   end
